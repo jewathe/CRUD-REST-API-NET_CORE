@@ -13,4 +13,9 @@
 
 # Tester avec Postman:
 
+# Get all :  https://localhost:7229/api/recipes/
+
+![image](https://github.com/user-attachments/assets/5eee99f0-4bf0-42e9-b4d2-f604050a76a4)
+
+
 
