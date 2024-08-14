@@ -25,3 +25,8 @@
 # Delete By Id:  https://localhost:7229/api/recipes/2
 
 ![image](https://github.com/user-attachments/assets/4e95fb4b-dc9a-44d4-938f-f4bf6f33fb5b)
+
+# (Modifier un reccord) PUT : https://localhost:7229/api/recipes/1
+![image](https://github.com/user-attachments/assets/2b447a84-d99f-42ed-9463-5ec262f6bfe5)
+
+# (Ajouter un reccord) POST : 
