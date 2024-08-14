@@ -17,5 +17,6 @@
 
 ![image](https://github.com/user-attachments/assets/5eee99f0-4bf0-42e9-b4d2-f604050a76a4)
 
+# Get By Id:  https://localhost:7229/api/recipes/2
 
-
+![image](https://github.com/user-attachments/assets/7cc94350-29e4-4406-a297-503b33f0961c)
