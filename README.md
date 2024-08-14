@@ -20,3 +20,8 @@
 # Get By Id:  https://localhost:7229/api/recipes/2
 
 ![image](https://github.com/user-attachments/assets/7cc94350-29e4-4406-a297-503b33f0961c)
+
+
+# Delete By Id:  https://localhost:7229/api/recipes/2
+
+![image](https://github.com/user-attachments/assets/4e95fb4b-dc9a-44d4-938f-f4bf6f33fb5b)
