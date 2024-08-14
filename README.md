@@ -8,8 +8,9 @@
 # Installer MS Visual Studio 2022
 
 ### Ajouter le projet dans VS Studio:
-1-nDans Visual Studio> file>open>Project/Solution>TMApi.sln
-2- Demarrer l'application
+
+- Dans Visual Studio> file>open>Project/Solution>TMApi.sln
+- Demarrer l'application
 
 # Tester avec Postman:
 
