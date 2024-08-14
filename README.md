@@ -29,4 +29,8 @@
 # (Modifier un reccord) PUT : https://localhost:7229/api/recipes/1
 ![image](https://github.com/user-attachments/assets/2b447a84-d99f-42ed-9463-5ec262f6bfe5)
 
-# (Ajouter un reccord) POST : 
+# (Ajouter un reccord) POST : https://localhost:7229/api/recipes/
+
+![image](https://github.com/user-attachments/assets/8adb175f-b7ec-49f4-bd03-b0da19c83794)
+
+![image](https://github.com/user-attachments/assets/d592957e-17ba-41a0-843d-0567a52b1b1a)
