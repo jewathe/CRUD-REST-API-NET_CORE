@@ -35,3 +35,8 @@
 ![image](https://github.com/user-attachments/assets/8adb175f-b7ec-49f4-bd03-b0da19c83794)
 
 ![image](https://github.com/user-attachments/assets/d592957e-17ba-41a0-843d-0567a52b1b1a)
+
+### Gestion de securite et acces utilisateur avec JWT:
+
+![image](https://github.com/user-attachments/assets/e92a8c49-3bad-4725-b5c3-91cb1a2e134b)
+
