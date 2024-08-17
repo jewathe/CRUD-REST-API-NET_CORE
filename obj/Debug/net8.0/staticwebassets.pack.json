@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jean\\Desktop\\UDEMY LEARNING\\RESTful API .Net Core\\TeaStoreApi\\wwwroot\\3d51eed4-227b-45bf-9ed7-683bdcd21db7.jpeg",
+      "PackagePath": "staticwebassets\\3d51eed4-227b-45bf-9ed7-683bdcd21db7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jean\\Desktop\\UDEMY LEARNING\\RESTful API .Net Core\\TeaStoreApi\\wwwroot\\629325fd-51e1-4aac-af21-9a1e55c6a2d3.jpeg",
+      "PackagePath": "staticwebassets\\629325fd-51e1-4aac-af21-9a1e55c6a2d3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jean\\Desktop\\UDEMY LEARNING\\RESTful API .Net Core\\TeaStoreApi\\wwwroot\\93ec665a-fcb7-4a97-8704-8ff5ca963ba7.jpeg",
+      "PackagePath": "staticwebassets\\93ec665a-fcb7-4a97-8704-8ff5ca963ba7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jean\\Desktop\\UDEMY LEARNING\\RESTful API .Net Core\\TeaStoreApi\\wwwroot\\aa0d78e4-63c3-423f-bd89-ef70d2a10411.jpeg",
+      "PackagePath": "staticwebassets\\aa0d78e4-63c3-423f-bd89-ef70d2a10411.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jean\\Desktop\\UDEMY LEARNING\\RESTful API .Net Core\\TeaStoreApi\\wwwroot\\dd2cebe4-3cd3-4fb9-b44f-a87a694d8d02.jpeg",
+      "PackagePath": "staticwebassets\\dd2cebe4-3cd3-4fb9-b44f-a87a694d8d02.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jean\\Desktop\\UDEMY LEARNING\\RESTful API .Net Core\\TeaStoreApi\\wwwroot\\e612e40a-049d-4c75-a987-48e05fa58697.jpeg",
+      "PackagePath": "staticwebassets\\e612e40a-049d-4c75-a987-48e05fa58697.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jean\\Desktop\\UDEMY LEARNING\\RESTful API .Net Core\\TeaStoreApi\\wwwroot\\f8bd4b3a-8b5f-42fd-87b1-7f7025f0ff46.jpeg",
+      "PackagePath": "staticwebassets\\f8bd4b3a-8b5f-42fd-87b1-7f7025f0ff46.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TeaStoreApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TeaStoreApi.props",
+      "PackagePath": "build\\TeaStoreApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TeaStoreApi.props",
+      "PackagePath": "buildMultiTargeting\\TeaStoreApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TeaStoreApi.props",
+      "PackagePath": "buildTransitive\\TeaStoreApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
